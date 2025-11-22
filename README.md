@@ -33,14 +33,16 @@ Open `index.html` in your browser. That's it!
 ## Usage
 
 **With Mouse:**
+
 - Click buttons to calculate
 - AC = Clear all
 - DEL = Delete last digit
 - = = Get result
 
 **With Keyboard:**
+
 - 0-9 = Numbers
-- +, -, *, / = Operations
+- +, -, \*, / = Operations
 - Enter = Calculate
 - Escape = Clear
 - Backspace = Delete
@@ -52,6 +54,7 @@ Pull requests are welcome!
 ## Author
 
 **Hafiz Muhammad Ahmed**
+
 - GitHub: [@hmahmd](https://github.com/hmahmd)
 
 ---
