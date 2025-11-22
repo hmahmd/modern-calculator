@@ -1,1 +1,1 @@
-# HMA - Calculator
+# modern-calculator
